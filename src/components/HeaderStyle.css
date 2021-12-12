@@ -1,0 +1,7 @@
+header {
+  display: flex;
+}
+
+header a {
+  margin: 4px 8px;
+}
